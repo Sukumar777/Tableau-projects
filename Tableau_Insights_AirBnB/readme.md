@@ -38,3 +38,6 @@ The client, in the housing industry, sought actionable insights to kickstart the
 ## Conclusion
 This Tableau project showcases expertise in data analysis, visualization, and translating insights into actionable strategies for business success in the housing industry. 
 
+<img width="852" alt="image" src="https://github.com/Sukumar777/Tableau-projects/assets/90702008/c2052858-2892-4e05-bce0-c1bb07f40217">
+
+
